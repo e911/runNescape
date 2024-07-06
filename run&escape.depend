@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1425607906 source:l:\my docs\third sem\c++\project\run&escape\main.cpp
+	<iostream>
+	<cstring>
+	<sstream>
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_mixer.h"
+	"constants.h"
+	"variables.h"
+	"blitCoordinates.h"
+	"initAll.h"
+	"cleanUp.h"
+	"Framerate.h"
+	"backgroundAnimation.h"
+	"stickAnimation.h"
+	"gamePlay.h"
+	"startMenu.h"
+
+1424700539 .h"
+
+1425712161 l:\my docs\third sem\c++\project\run&escape\constants.h
+
+1425711980 l:\my docs\third sem\c++\project\run&escape\variables.h
+
+1422087702 l:\my docs\third sem\c++\project\run&escape\blitcoordinates.h
+
+1425713808 l:\my docs\third sem\c++\project\run&escape\initall.h
+
+1425480162 l:\my docs\third sem\c++\project\run&escape\cleanup.h
+
+1423069435 l:\my docs\third sem\c++\project\run&escape\startmenu.h
+
+1425712213 l:\my docs\third sem\c++\project\run&escape\stickanimation.h
+	"obst.h"
+	"collision.h"
+
+1421821804 l:\my docs\third sem\c++\project\run&escape\quit.h
+
+1421823492 l:\my docs\third sem\c++\project\run&escape\framerate.h
+
+1424700450 l:\my docs\third sem\c++\project\run&escape\backgroundanimation.h
+
+1424700483 l:\my docs\third sem\c++\project\run&escape\obst.h
+	<time.h>
+
+1424700483 
+
+1425607920 l:\my docs\third sem\c++\project\run&escape\gameplay.h
+
+1425529088 l:\my docs\third sem\c++\project\run&escape\collision.h
+
+1424699775 source:/media/pujan/New Volume/my docs/Third sem/C++/project/run&escape/main.cpp
+	<iostream>
+	<cstring>
+	<sstream>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_mixer.h"
+	"constants.h"
+	"variables.h"
+	"blitCoordinates.h"
+	"initAll.h"
+	"cleanUp.h"
+	"Framerate.h"
+	"backgroundAnimation.h"
+	"stickAnimation.h"
+	"gamePlay.h"
+	"startMenu.h"
+
+1424769910 /media/pujan/New Volume/my docs/Third sem/C++/project/run&escape/constants.h
+
+1424700495 /media/pujan/New Volume/my docs/Third sem/C++/project/run&escape/variables.h
+
+1422087702 /media/pujan/New Volume/my docs/Third sem/C++/project/run&escape/blitCoordinates.h
+
+1422337802 /media/pujan/New Volume/my docs/Third sem/C++/project/run&escape/initAll.h
+
+1421858789 /media/pujan/New Volume/my docs/Third sem/C++/project/run&escape/cleanUp.h
+
+1421823492 /media/pujan/New Volume/my docs/Third sem/C++/project/run&escape/Framerate.h
+
+1424700450 /media/pujan/New Volume/my docs/Third sem/C++/project/run&escape/backgroundAnimation.h
+
+1424700539 /media/pujan/New Volume/my docs/Third sem/C++/project/run&escape/stickAnimation.h
+	"obst.h"
+	"collision.h"
+
+1424700483 /media/pujan/New Volume/my docs/Third sem/C++/project/run&escape/obst.h
+	<time.h>
+
+1424700561 /media/pujan/New Volume/my docs/Third sem/C++/project/run&escape/collision.h
+
+1423069434 /media/pujan/New Volume/my docs/Third sem/C++/project/run&escape/gamePlay.h
+
+1423069435 /media/pujan/New Volume/my docs/Third sem/C++/project/run&escape/startMenu.h
+
+1425477763 l:\my docs\third sem\c++\project\run&escape\include\timeshow.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<string>
+	<sstream>
+
+1425528819 l:\my docs\third sem\c++\project\run&escape\timeshow.h
+	<string>
+	<sstream>
+
